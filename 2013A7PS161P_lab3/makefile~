@@ -1,0 +1,2 @@
+all:
+	gcc signal_jobs.c -o signal_jobs
